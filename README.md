@@ -1,2 +1,2 @@
 # Fora - Brcko / Moja kuca - Brcko
-https://pdejan.github.io/fora-brcko/
+https://forabrcko.github.io/fora-brcko/
