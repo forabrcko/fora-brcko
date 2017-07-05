@@ -1,2 +1,2 @@
 # Fora - Brcko / Moja kuca - Brcko
-https://forabrcko.github.io/fora-brcko/
+http://www.fora-brcko.ba
